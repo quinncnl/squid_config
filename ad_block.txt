@@ -5,7 +5,7 @@
 .adservice.google.nl
 .adservice.google.com
 .googletagmanager.com
-.gm.mmstat.com
+.mmstat.com
 .addthis.com
 .ads.linkedin.com
 .doubleclick.net
