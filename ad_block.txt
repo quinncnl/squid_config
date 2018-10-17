@@ -30,3 +30,6 @@
 .baidu.com
 .tudou.com
 .kankan.com
+.cnzz.com
+.umeng.com
+.taobao.com
