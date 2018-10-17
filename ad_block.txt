@@ -38,3 +38,7 @@
 .scorecardresearch.com
 .optimizely.com
 .pubmatic.com
+.tmall.com
+.jd.com
+.360.cn
+.sm.cn
