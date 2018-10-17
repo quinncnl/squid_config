@@ -4,8 +4,8 @@
 .googlesyndication.com
 .adservice.google.nl
 .adservice.google.com
-gm.mmstat.com
-addthis.com
+.gm.mmstat.com
+.addthis.com
 .ads.linkedin.com
 .doubleclick.net
 .ads.yahoo.com
@@ -22,9 +22,9 @@ addthis.com
 .v.qq.com
 .zhibo8.cc
 .douyu.com
-hao123.com
-showself.com
-huya.com
-huaweicloud.com
-baidu.com
-tudou.com
+.hao123.com
+.showself.com
+.huya.com
+.huaweicloud.com
+.baidu.com
+.tudou.com
