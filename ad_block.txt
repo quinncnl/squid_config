@@ -43,3 +43,5 @@
 .360.cn
 .sm.cn
 .quantserve.com
+.talkingdata.com
+.lnk0.com
