@@ -28,3 +28,4 @@
 .huaweicloud.com
 .baidu.com
 .tudou.com
+.kankan.com
