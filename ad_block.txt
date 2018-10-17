@@ -2,7 +2,13 @@ analytics.google.com
 google-analytics.com
 googleadservices.com
 googlesyndication.com
+adservice.google.nl
+gm.mmstat.com
 addthis.com
+doubleclick.net
+ads.yahoo.com
+sugar.zhihu.com
+parsely.com
 krcom.cn
 le.com
 youku.com
