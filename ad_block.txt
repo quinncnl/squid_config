@@ -45,3 +45,10 @@
 .quantserve.com
 .talkingdata.com
 .lnk0.com
+.pptv.com
+.baofeng.com
+.gp.jstv.com
+.miaozhen.com
+.pipi.cn
+.pplive.cn
+.pplive.com
