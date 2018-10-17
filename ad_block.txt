@@ -35,3 +35,4 @@
 .taobao.com
 .gma.alicdn.com
 .365yg.com
+.alicdn.com
