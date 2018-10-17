@@ -4,6 +4,7 @@
 .googlesyndication.com
 .adservice.google.nl
 .adservice.google.com
+.googletagmanager.com
 .gm.mmstat.com
 .addthis.com
 .ads.linkedin.com
