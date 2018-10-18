@@ -56,3 +56,4 @@
 .popoxiu.com
 .noscreenplz2.ifeng.com
 .noscreenplz1.ifeng.com
+.deliver.ifeng.com
