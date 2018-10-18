@@ -27,6 +27,8 @@
 .hao123.com
 .showself.com
 .huya.com
+.dyncdn.me
+.statsy.net
 .huaweicloud.com
 .baidu.com
 .tudou.com
