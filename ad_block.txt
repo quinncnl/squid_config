@@ -18,6 +18,7 @@
 .tv.sohu.com
 .iqiyi.com
 .bilibili.com
+.360buyimg.com
 .fun.tv
 .funshion.net
 .v.qq.com
