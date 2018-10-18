@@ -54,3 +54,4 @@
 .pplive.cn
 .pplive.com
 .popoxiu.com
+.noscreenplz2.ifeng.com
