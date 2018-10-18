@@ -52,3 +52,4 @@
 .pipi.cn
 .pplive.cn
 .pplive.com
+.popoxiu.com
