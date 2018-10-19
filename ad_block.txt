@@ -38,6 +38,7 @@
 .taobao.com
 .365yg.com
 .alicdn.com
+.s4yxaqyq95.com
 .scorecardresearch.com
 .optimizely.com
 .pubmatic.com
