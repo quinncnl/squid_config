@@ -60,3 +60,4 @@
 .noscreenplz1.ifeng.com
 .deliver.ifeng.com
 .icast.cn
+.adform.net
