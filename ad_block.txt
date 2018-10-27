@@ -1,6 +1,5 @@
 .analytics.google.com
 .google-analytics.com
-.googleadservices.com
 .googlesyndication.com
 .adservice.google.nl
 .adservice.google.com
